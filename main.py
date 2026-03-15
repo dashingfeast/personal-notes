@@ -40,6 +40,13 @@ ___________           .__                                         __  .__       
 
           """)
 
+
+
+def desc():
+    # Description
+    print("Techgyanathon CTF 2021 - The Insider")
+    print("Personal Notes")
+
 if __name__ == "__main__":
     main()
 
