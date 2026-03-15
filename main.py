@@ -1,5 +1,11 @@
 #!/bin/env python
 
+########################################
+# @Author: Dark Kernel
+# @date: 2021-11-30
+# @version: 1.0
+########################################
+
 import sys
 
 for line in sys.stdin:
@@ -46,6 +52,9 @@ def desc():
     # Description
     print("Techgyanathon CTF 2021 - The Insider")
     print("Personal Notes")
+
+
+
 
 if __name__ == "__main__":
     main()
